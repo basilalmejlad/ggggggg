@@ -1,6 +1,6 @@
-owner=521688630503276544
-prefix=D
-game=Dplay
+owner=467193057612398593
+prefix=DW
+game=DWplay
 stayinchannel=true
 songinstatus=false
-token=NTU4NTE5NzM4MTAwMjE5OTA0.D3YBmg.-B17fOuTP7_xZcnSBV47FewyjyU
+token=NTY1NTQ5NTA2NDYxMDQwNjQw.XK4DDg.IWTAuQr0j3PuM134lvsWT1-BLo0
